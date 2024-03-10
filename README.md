@@ -40,6 +40,6 @@ Your contributions are welcome. Please fork the repository, make your changes, a
 # Disclaimer
 This tool is not affiliated with, endorsed, or sponsored by the Indonesian National Board for Disaster Management (BNPB) or its Disaster Information Management System (DIBI). Use this tool responsibly and ethically, respecting the terms of use of the data source.
 
-**Developed by:** Achmad Ardani Prasha (41523010005) for Discrete Mathematic 2023/2024 Class
+**Developed by:** Achmad Ardani Prasha (41523010005) for Discrete Mathematic 2024/2025 Class
 
 **LinkedIn:** https://www.linkedin.com/in/achmadardanip/
