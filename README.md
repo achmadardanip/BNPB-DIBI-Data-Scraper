@@ -13,8 +13,8 @@ pip install -r requirements.txt
 ```bash
 python export.py
 ```
-4. Enter the Number of Records: When prompted, input the number of records you wish to retrieve from the DIBI website. Input the total records from the DIBI website
-5. Data Retrieval: The script will fetch the data based on the provided parameters and export it to an Excel file named according to the province, district/kabupaten, year, and pagination.
+3. Enter the Number of Records: When prompted, input the number of records you wish to retrieve from the DIBI website. Input the total records from the DIBI website
+4. Data Retrieval: The script will fetch the data based on the provided parameters and export it to an Excel file named according to the province, district/kabupaten, year, and pagination.
 # Customization Guide
 * Province Code: Change the **pr** value in the parameter dictionary to match the desired province's code.
 * City/Kabupaten Code: Modify the **kb** value to specify the city or kabupaten code.
