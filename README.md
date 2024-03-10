@@ -22,7 +22,7 @@ python export.py
 # Data Export
 The exported Excel file follows the following naming convention 
 ```bash
-Prov. [Province Name]_ District/KabupatenName_[Year]_Page [Page Number].xlsx.
+Prov. [Province Name]_ District/KabupatenName_[Year]_Page [Page Number].xlsx
 ```
 If multiple pages of records are retrieved, each will be exported as a separate file. It is up to the user to manually combine these files if needed.
 # Important Notes
