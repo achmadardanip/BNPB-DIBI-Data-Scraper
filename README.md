@@ -1,4 +1,4 @@
-# BNPB-DIBI-Data-Scrapper
+# BNPB-DIBI-Data-Scraper
 This repository contains tools for data scraping from the [Disaster Information Management System (DIBI)](https://dibi.bnpb.go.id/xdibi2) of the Indonesian National Board for Disaster Management (BNPB) website. It specifically targets the retrieval of disaster event records, allowing users to specify the number of records they wish to retrieve. The tool accommodates adjustments for province, city/district(kabupaten), and year, ensuring flexibility and precision in data collection.
 # Prerequisites
 You have Python version >= 3.9 and Vscode installed on your laptop/computer to run the script
